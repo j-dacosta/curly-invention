@@ -1,0 +1,39 @@
+# Dependencies
+markdown:            kramdown
+highlighter:         rouge
+
+# Gems (for Jekyll 3.0)
+gems: [jekyll-paginate]
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Naringu
+tagline:             'A Hacker like jekyll theme'
+description:         'oonlab is crafted with <3 by ariestiyansyah.'
+url:                 https://j-dacosta.github.io
+baseurl:             /curly-invention
+paginate:            7
+
+# About/contact
+author:
+  name:              Jenora D'Acosta
+  url:               https://twitter.com/
+  email:             jdacosta@esri.com
+
+# Custom vars
+version:             2.0
+
+# Social Media
+github:
+twitter:
+disqus:             
+
+# Theme Author (Please don't edit this line cause of MIT LICENSE rules)
+theme:
+  creator:			Rizky Ariestiyansyah
+  codename:			Naringu
+  link:             https://github.com/ariestiyansyah/naringu
